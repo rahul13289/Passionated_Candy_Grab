@@ -1,6 +1,6 @@
 #Passionated_Candy_Grab
 
-Candy Crush is a match-three game where players must swap colorful candies to create matches of three or more candies of the same color in a row or column.
+Romantic Candy Grab is a match-three game where players must swap colorful candies to create matches of three or more candies of the same color in a row or column.
 
 The objective of each level varies, but typically involves clearing a certain number of candies, reaching a specific score, or completing other specific tasks within a limited number of moves. As players progress through the game, they encounter different types of challenges, including obstacles, special candies, and boosters that can help them complete levels more easily.
 
