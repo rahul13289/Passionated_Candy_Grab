@@ -1,0 +1,43 @@
+body {
+    background: url("./background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+#board {
+    width: 450px;
+    height: 450px;
+    background-color: lightblue;
+    border: 5px solid slategray;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img {
+    width: 50px;
+    height: 50px;
+}
+
+.innovative-heading {
+  font-family: Courier New; /* Change the font family to your preference */
+  font-size: 32px; /* Adjust the font size as needed */
+  color: red; /* Change the text color to your desired color */
+  background-color: #00ff00; /* Change the background color to your desired color */
+  padding: 10px; /* Add padding to create some space around the text */
+  border-radius: 10px; /* Add border radius to give it a rounded appearance */
+  text-align: center; /* Center-align the text within the heading */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow for a visual effect */
+}
+
+.innovative2{
+  font-family: Geneva; /* Change the font family to your preference */
+  font-size: 28px; /* Adjust the font size as needed */
+  color: blue; /* Change the text color to your desired color */
+  padding: 10px; /* Add padding to create some space around the text */
+  border-radius: 10px; /* Add border radius to give it a rounded appearance */
+  text-align: center; /* Center-align the text within the heading */
+}
