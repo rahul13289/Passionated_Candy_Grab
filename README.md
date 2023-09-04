@@ -4,6 +4,8 @@ PLEASE FIND THE WEBSITE LINK: https://rahul13289.github.io/Passionated_Candy_Gra
 
 Alternative website: https://rahul-tech-solutions13.on.drv.tw/candy-crush-master/
 
+![image](https://github.com/rahul13289/Passionated_Candy_Grab/assets/97829880/199138b8-8e83-4179-816f-08dc5ef8ad87)
+
 Romantic Candy Grab is a match-three game where players must swap colorful candies to create matches of three or more candies of the same color in a row or column.
 
 The objective of each level varies, but typically involves clearing a certain number of candies, reaching a specific score, or completing other specific tasks within a limited number of moves. As players progress through the game, they encounter different types of challenges, including obstacles, special candies, and boosters that can help them complete levels more easily.
